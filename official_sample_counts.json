@@ -1,0 +1,3019 @@
+{
+  "analysis_date": "2026-10-27",
+  "method_version": 1,
+  "source_type": "2012 and 2018 compiled official practice workbooks, not dated exam sessions",
+  "stopwords": [
+    "あなた",
+    "あの",
+    "ある",
+    "あれ",
+    "いる",
+    "ここ",
+    "こちら",
+    "こと",
+    "ことば",
+    "この",
+    "これ",
+    "させる",
+    "する",
+    "せる",
+    "そう",
+    "そこ",
+    "そちら",
+    "その",
+    "それ",
+    "ため",
+    "つぎ",
+    "できる",
+    "ところ",
+    "どう",
+    "どこ",
+    "どちら",
+    "どの",
+    "ない",
+    "なる",
+    "なん",
+    "もの",
+    "よう",
+    "られる",
+    "れる",
+    "一",
+    "一つ",
+    "七",
+    "三",
+    "九",
+    "二",
+    "五",
+    "人",
+    "今",
+    "何",
+    "例",
+    "八",
+    "六",
+    "十",
+    "問題",
+    "四",
+    "回答",
+    "女",
+    "女性",
+    "彼",
+    "彼女",
+    "文",
+    "文章",
+    "方",
+    "最も",
+    "次",
+    "男",
+    "男性",
+    "番",
+    "私",
+    "答え",
+    "自分",
+    "解",
+    "言葉",
+    "読",
+    "読み方",
+    "貸し",
+    "質問"
+  ],
+  "documents": [
+    {
+      "id": "2012-script",
+      "url": "https://www.jlpt.jp/samples/sample2012/pdf/N3script.pdf",
+      "sha256": "009fec75f51b5331ac59049c1e1b57a5b0ed20268745016fcaead8fef83dd7d0",
+      "pdf_pages": 12,
+      "retained_tokens": 813,
+      "page_audit": [
+        {
+          "pdf_page": 1,
+          "included": true,
+          "characters": 570
+        },
+        {
+          "pdf_page": 2,
+          "included": true,
+          "characters": 751
+        },
+        {
+          "pdf_page": 3,
+          "included": true,
+          "characters": 549
+        },
+        {
+          "pdf_page": 4,
+          "included": true,
+          "characters": 531
+        },
+        {
+          "pdf_page": 5,
+          "included": true,
+          "characters": 696
+        },
+        {
+          "pdf_page": 6,
+          "included": true,
+          "characters": 638
+        },
+        {
+          "pdf_page": 7,
+          "included": true,
+          "characters": 553
+        },
+        {
+          "pdf_page": 8,
+          "included": true,
+          "characters": 594
+        },
+        {
+          "pdf_page": 9,
+          "included": true,
+          "characters": 441
+        },
+        {
+          "pdf_page": 10,
+          "included": true,
+          "characters": 337
+        },
+        {
+          "pdf_page": 11,
+          "included": true,
+          "characters": 374
+        },
+        {
+          "pdf_page": 12,
+          "included": true,
+          "characters": 158
+        }
+      ]
+    },
+    {
+      "id": "2018-V",
+      "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+      "sha256": "66abec06d2e23d2ee66b94cdf905b34cc87f97a5ce0ce5da47dc304053d647ea",
+      "pdf_pages": 7,
+      "retained_tokens": 366,
+      "page_audit": [
+        {
+          "pdf_page": 1,
+          "included": false,
+          "characters": 0
+        },
+        {
+          "pdf_page": 2,
+          "included": false,
+          "characters": 0
+        },
+        {
+          "pdf_page": 3,
+          "included": true,
+          "characters": 295
+        },
+        {
+          "pdf_page": 4,
+          "included": true,
+          "characters": 192
+        },
+        {
+          "pdf_page": 5,
+          "included": true,
+          "characters": 519
+        },
+        {
+          "pdf_page": 6,
+          "included": true,
+          "characters": 244
+        },
+        {
+          "pdf_page": 7,
+          "included": true,
+          "characters": 615
+        }
+      ]
+    },
+    {
+      "id": "2018-G",
+      "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3G.pdf",
+      "sha256": "fe4e17dec0eae246839a7a32423e9e9fc3beaca3a2c693bd5445cafd6f0bfc06",
+      "pdf_pages": 9,
+      "retained_tokens": 349,
+      "page_audit": [
+        {
+          "pdf_page": 1,
+          "included": false,
+          "characters": 0
+        },
+        {
+          "pdf_page": 2,
+          "included": false,
+          "characters": 0
+        },
+        {
+          "pdf_page": 3,
+          "included": true,
+          "characters": 502
+        },
+        {
+          "pdf_page": 4,
+          "included": true,
+          "characters": 444
+        },
+        {
+          "pdf_page": 5,
+          "included": true,
+          "characters": 144
+        },
+        {
+          "pdf_page": 6,
+          "included": true,
+          "characters": 287
+        },
+        {
+          "pdf_page": 7,
+          "included": true,
+          "characters": 150
+        },
+        {
+          "pdf_page": 8,
+          "included": true,
+          "characters": 525
+        },
+        {
+          "pdf_page": 9,
+          "included": true,
+          "characters": 151
+        }
+      ]
+    },
+    {
+      "id": "2018-R",
+      "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3R.pdf",
+      "sha256": "1d56df57040ffe1da41c2cb6f152e3926d84fb5a17b7b25b348b01cfb9c89e69",
+      "pdf_pages": 12,
+      "retained_tokens": 949,
+      "page_audit": [
+        {
+          "pdf_page": 1,
+          "included": true,
+          "characters": 445
+        },
+        {
+          "pdf_page": 2,
+          "included": true,
+          "characters": 401
+        },
+        {
+          "pdf_page": 3,
+          "included": true,
+          "characters": 424
+        },
+        {
+          "pdf_page": 4,
+          "included": true,
+          "characters": 214
+        },
+        {
+          "pdf_page": 5,
+          "included": true,
+          "characters": 734
+        },
+        {
+          "pdf_page": 6,
+          "included": true,
+          "characters": 181
+        },
+        {
+          "pdf_page": 7,
+          "included": true,
+          "characters": 825
+        },
+        {
+          "pdf_page": 8,
+          "included": true,
+          "characters": 8
+        },
+        {
+          "pdf_page": 9,
+          "included": true,
+          "characters": 871
+        },
+        {
+          "pdf_page": 10,
+          "included": true,
+          "characters": 492
+        },
+        {
+          "pdf_page": 11,
+          "included": true,
+          "characters": 305
+        },
+        {
+          "pdf_page": 12,
+          "included": true,
+          "characters": 613
+        }
+      ]
+    },
+    {
+      "id": "2018-script",
+      "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3script.pdf",
+      "sha256": "56a263ae5f1b758f306fabaf36bc0c3d6a3adde4bd17a5303ff43af3c4e8c803",
+      "pdf_pages": 13,
+      "retained_tokens": 1095,
+      "page_audit": [
+        {
+          "pdf_page": 1,
+          "included": true,
+          "characters": 577
+        },
+        {
+          "pdf_page": 2,
+          "included": true,
+          "characters": 710
+        },
+        {
+          "pdf_page": 3,
+          "included": true,
+          "characters": 821
+        },
+        {
+          "pdf_page": 4,
+          "included": true,
+          "characters": 527
+        },
+        {
+          "pdf_page": 5,
+          "included": true,
+          "characters": 718
+        },
+        {
+          "pdf_page": 6,
+          "included": true,
+          "characters": 784
+        },
+        {
+          "pdf_page": 7,
+          "included": true,
+          "characters": 860
+        },
+        {
+          "pdf_page": 8,
+          "included": true,
+          "characters": 351
+        },
+        {
+          "pdf_page": 9,
+          "included": true,
+          "characters": 676
+        },
+        {
+          "pdf_page": 10,
+          "included": true,
+          "characters": 485
+        },
+        {
+          "pdf_page": 11,
+          "included": true,
+          "characters": 369
+        },
+        {
+          "pdf_page": 12,
+          "included": true,
+          "characters": 466
+        },
+        {
+          "pdf_page": 13,
+          "included": true,
+          "characters": 389
+        }
+      ]
+    }
+  ],
+  "candidate_unique_lemmas": 1155,
+  "retained_tokens": 3572,
+  "top100_candidates": [
+    {
+      "word": "思う",
+      "reading_auto": "オモッ",
+      "total": 49,
+      "counts": {
+        "2012-script": 9,
+        "2018-V": 2,
+        "2018-G": 5,
+        "2018-R": 18,
+        "2018-script": 15
+      },
+      "pdf_pages": {
+        "2012-script": [
+          1,
+          2,
+          5,
+          8,
+          9,
+          12
+        ],
+        "2018-V": [
+          6,
+          7
+        ],
+        "2018-G": [
+          4,
+          7,
+          8
+        ],
+        "2018-R": [
+          2,
+          5,
+          6,
+          9,
+          10
+        ],
+        "2018-script": [
+          1,
+          3,
+          5,
+          7,
+          9,
+          10,
+          13
+        ]
+      }
+    },
+    {
+      "word": "良い",
+      "reading_auto": "イイ",
+      "total": 43,
+      "counts": {
+        "2012-script": 21,
+        "2018-V": 1,
+        "2018-G": 3,
+        "2018-R": 2,
+        "2018-script": 16
+      },
+      "pdf_pages": {
+        "2012-script": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          7,
+          8,
+          9,
+          11
+        ],
+        "2018-V": [
+          7
+        ],
+        "2018-G": [
+          4,
+          8
+        ],
+        "2018-R": [
+          5,
+          10
+        ],
+        "2018-script": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          10,
+          12,
+          13
+        ]
+      }
+    },
+    {
+      "word": "言う",
+      "reading_auto": "イッ",
+      "total": 41,
+      "counts": {
+        "2012-script": 10,
+        "2018-V": 1,
+        "2018-G": 6,
+        "2018-R": 9,
+        "2018-script": 15
+      },
+      "pdf_pages": {
+        "2012-script": [
+          3,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "2018-V": [
+          5
+        ],
+        "2018-G": [
+          7,
+          8,
+          9
+        ],
+        "2018-R": [
+          2,
+          3,
+          7,
+          9,
+          10
+        ],
+        "2018-script": [
+          5,
+          6,
+          7,
+          8,
+          10,
+          11
+        ]
+      }
+    },
+    {
+      "word": "傘",
+      "reading_auto": "カサ",
+      "total": 36,
+      "counts": {
+        "2012-script": 2,
+        "2018-R": 34
+      },
+      "pdf_pages": {
+        "2012-script": [
+          3,
+          11
+        ],
+        "2018-R": [
+          7
+        ]
+      }
+    },
+    {
+      "word": "利用",
+      "reading_auto": "リヨウ",
+      "total": 36,
+      "counts": {
+        "2012-script": 1,
+        "2018-G": 5,
+        "2018-R": 29,
+        "2018-script": 1
+      },
+      "pdf_pages": {
+        "2012-script": [
+          6
+        ],
+        "2018-G": [
+          4
+        ],
+        "2018-R": [
+          7,
+          9,
+          10
+        ],
+        "2018-script": [
+          9
+        ]
+      }
+    },
+    {
+      "word": "来る",
+      "reading_auto": "キ",
+      "total": 35,
+      "counts": {
+        "2012-script": 14,
+        "2018-G": 2,
+        "2018-R": 2,
+        "2018-script": 17
+      },
+      "pdf_pages": {
+        "2012-script": [
+          2,
+          6,
+          7,
+          8,
+          10,
+          11
+        ],
+        "2018-G": [
+          5,
+          8
+        ],
+        "2018-R": [
+          7,
+          11
+        ],
+        "2018-script": [
+          1,
+          2,
+          7,
+          8,
+          9,
+          13
+        ]
+      }
+    },
+    {
+      "word": "話す",
+      "reading_auto": "ハナシ",
+      "total": 34,
+      "counts": {
+        "2012-script": 14,
+        "2018-R": 1,
+        "2018-script": 19
+      },
+      "pdf_pages": {
+        "2012-script": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "2018-R": [
+          9
+        ],
+        "2018-script": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    },
+    {
+      "word": "行く",
+      "reading_auto": "イク",
+      "total": 32,
+      "counts": {
+        "2012-script": 18,
+        "2018-V": 1,
+        "2018-G": 4,
+        "2018-R": 2,
+        "2018-script": 7
+      },
+      "pdf_pages": {
+        "2012-script": [
+          2,
+          3,
+          5,
+          7,
+          8,
+          12
+        ],
+        "2018-V": [
+          7
+        ],
+        "2018-G": [
+          3,
+          4,
+          5
+        ],
+        "2018-R": [
+          4,
+          11
+        ],
+        "2018-script": [
+          4,
+          5,
+          6,
+          13
+        ]
+      }
+    },
+    {
+      "word": "会社",
+      "reading_auto": "カイシャ",
+      "total": 31,
+      "counts": {
+        "2012-script": 5,
+        "2018-V": 1,
+        "2018-G": 1,
+        "2018-R": 16,
+        "2018-script": 8
+      },
+      "pdf_pages": {
+        "2012-script": [
+          1,
+          3,
+          4,
+          10
+        ],
+        "2018-V": [
+          7
+        ],
+        "2018-G": [
+          3
+        ],
+        "2018-R": [
+          3,
+          9,
+          10
+        ],
+        "2018-script": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          13
+        ]
+      }
+    },
+    {
+      "word": "本",
+      "reading_auto": "ホン",
+      "total": 30,
+      "counts": {
+        "2012-script": 2,
+        "2018-V": 1,
+        "2018-R": 23,
+        "2018-script": 4
+      },
+      "pdf_pages": {
+        "2012-script": [
+          7
+        ],
+        "2018-V": [
+          5
+        ],
+        "2018-R": [
+          5,
+          6
+        ],
+        "2018-script": [
+          8,
+          12
+        ]
+      }
+    },
+    {
+      "word": "持つ",
+      "reading_auto": "モッ",
+      "total": 27,
+      "counts": {
+        "2012-script": 3,
+        "2018-G": 8,
+        "2018-R": 12,
+        "2018-script": 4
+      },
+      "pdf_pages": {
+        "2012-script": [
+          3,
+          5,
+          11
+        ],
+        "2018-G": [
+          4,
+          9
+        ],
+        "2018-R": [
+          2,
+          5,
+          10
+        ],
+        "2018-script": [
+          9,
+          10
+        ]
+      }
+    },
+    {
+      "word": "見る",
+      "reading_auto": "ミ",
+      "total": 27,
+      "counts": {
+        "2012-script": 5,
+        "2018-V": 2,
+        "2018-G": 1,
+        "2018-R": 7,
+        "2018-script": 12
+      },
+      "pdf_pages": {
+        "2012-script": [
+          1,
+          2,
+          6,
+          12
+        ],
+        "2018-V": [
+          4,
+          7
+        ],
+        "2018-G": [
+          6
+        ],
+        "2018-R": [
+          3,
+          11,
+          12
+        ],
+        "2018-script": [
+          4,
+          5,
+          6,
+          7,
+          9,
+          11,
+          12
+        ]
+      }
+    },
+    {
+      "word": "多い",
+      "reading_auto": "オオイ",
+      "total": 26,
+      "counts": {
+        "2012-script": 2,
+        "2018-V": 1,
+        "2018-G": 1,
+        "2018-R": 17,
+        "2018-script": 5
+      },
+      "pdf_pages": {
+        "2012-script": [
+          2,
+          7
+        ],
+        "2018-V": [
+          6
+        ],
+        "2018-G": [
+          8
+        ],
+        "2018-R": [
+          7,
+          9,
+          10
+        ],
+        "2018-script": [
+          5,
+          7,
+          10
+        ]
+      }
+    },
+    {
+      "word": "買う",
+      "reading_auto": "カッ",
+      "total": 24,
+      "counts": {
+        "2012-script": 1,
+        "2018-V": 1,
+        "2018-G": 1,
+        "2018-R": 13,
+        "2018-script": 8
+      },
+      "pdf_pages": {
+        "2012-script": [
+          4
+        ],
+        "2018-V": [
+          7
+        ],
+        "2018-G": [
+          3
+        ],
+        "2018-R": [
+          3,
+          5,
+          6,
+          7
+        ],
+        "2018-script": [
+          1,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "word": "読む",
+      "reading_auto": "ヨン",
+      "total": 22,
+      "counts": {
+        "2018-G": 1,
+        "2018-R": 20,
+        "2018-script": 1
+      },
+      "pdf_pages": {
+        "2018-G": [
+          8
+        ],
+        "2018-R": [
+          1,
+          4,
+          5,
+          9,
+          11
+        ],
+        "2018-script": [
+          12
+        ]
+      }
+    },
+    {
+      "word": "あと",
+      "reading_auto": "アト",
+      "total": 21,
+      "counts": {
+        "2012-script": 9,
+        "2018-V": 1,
+        "2018-script": 11
+      },
+      "pdf_pages": {
+        "2012-script": [
+          2,
+          3,
+          5,
+          6,
+          8
+        ],
+        "2018-V": [
+          7
+        ],
+        "2018-script": [
+          2,
+          3,
+          4,
+          7,
+          8,
+          9,
+          11
+        ]
+      }
+    },
+    {
+      "word": "今日",
+      "reading_auto": "キョウ",
+      "total": 20,
+      "counts": {
+        "2012-script": 6,
+        "2018-V": 1,
+        "2018-G": 1,
+        "2018-R": 5,
+        "2018-script": 7
+      },
+      "pdf_pages": {
+        "2012-script": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "2018-V": [
+          7
+        ],
+        "2018-G": [
+          8
+        ],
+        "2018-R": [
+          1,
+          11
+        ],
+        "2018-script": [
+          2,
+          4,
+          6,
+          11
+        ]
+      }
+    },
+    {
+      "word": "友達",
+      "reading_auto": "トモダチ",
+      "total": 20,
+      "counts": {
+        "2012-script": 11,
+        "2018-G": 2,
+        "2018-script": 7
+      },
+      "pdf_pages": {
+        "2012-script": [
+          2,
+          7,
+          10
+        ],
+        "2018-G": [
+          8
+        ],
+        "2018-script": [
+          6,
+          8,
+          10,
+          13
+        ]
+      }
+    },
+    {
+      "word": "話",
+      "reading_auto": "ハナシ",
+      "total": 20,
+      "counts": {
+        "2012-script": 2,
+        "2018-V": 1,
+        "2018-G": 11,
+        "2018-R": 3,
+        "2018-script": 3
+      },
+      "pdf_pages": {
+        "2012-script": [
+          5,
+          8
+        ],
+        "2018-V": [
+          5
+        ],
+        "2018-G": [
+          8
+        ],
+        "2018-R": [
+          9,
+          10,
+          12
+        ],
+        "2018-script": [
+          10
+        ]
+      }
+    },
+    {
+      "word": "使う",
+      "reading_auto": "ツカッ",
+      "total": 19,
+      "counts": {
+        "2012-script": 5,
+        "2018-V": 3,
+        "2018-R": 5,
+        "2018-script": 6
+      },
+      "pdf_pages": {
+        "2012-script": [
+          1,
+          2,
+          3,
+          6,
+          10
+        ],
+        "2018-V": [
+          3,
+          7
+        ],
+        "2018-R": [
+          7,
+          10
+        ],
+        "2018-script": [
+          3,
+          5,
+          7,
+          9
+        ]
+      }
+    },
+    {
+      "word": "運転",
+      "reading_auto": "ウンテン",
+      "total": 19,
+      "counts": {
+        "2012-script": 1,
+        "2018-R": 18
+      },
+      "pdf_pages": {
+        "2012-script": [
+          9
+        ],
+        "2018-R": [
+          3,
+          9,
+          10
+        ]
+      }
+    },
+    {
+      "word": "作る",
+      "reading_auto": "ツクッ",
+      "total": 18,
+      "counts": {
+        "2012-script": 8,
+        "2018-V": 1,
+        "2018-R": 2,
+        "2018-script": 7
+      },
+      "pdf_pages": {
+        "2012-script": [
+          4,
+          5
+        ],
+        "2018-V": [
+          5
+        ],
+        "2018-R": [
+          3
+        ],
+        "2018-script": [
+          1,
+          4,
+          9
+        ]
+      }
+    },
+    {
+      "word": "出る",
+      "reading_auto": "デ",
+      "total": 18,
+      "counts": {
+        "2012-script": 4,
+        "2018-V": 2,
+        "2018-G": 1,
+        "2018-R": 2,
+        "2018-script": 9
+      },
+      "pdf_pages": {
+        "2012-script": [
+          1
+        ],
+        "2018-V": [
+          4,
+          7
+        ],
+        "2018-G": [
+          5
+        ],
+        "2018-R": [
+          2,
+          12
+        ],
+        "2018-script": [
+          1,
+          2,
+          3,
+          6,
+          7,
+          9
+        ]
+      }
+    },
+    {
+      "word": "前",
+      "reading_auto": "マエ",
+      "total": 18,
+      "counts": {
+        "2012-script": 2,
+        "2018-V": 1,
+        "2018-G": 2,
+        "2018-R": 8,
+        "2018-script": 5
+      },
+      "pdf_pages": {
+        "2012-script": [
+          3,
+          7
+        ],
+        "2018-V": [
+          5
+        ],
+        "2018-G": [
+          3,
+          7
+        ],
+        "2018-R": [
+          5,
+          9
+        ],
+        "2018-script": [
+          3,
+          6,
+          8,
+          13
+        ]
+      }
+    },
+    {
+      "word": "学生",
+      "reading_auto": "ガクセイ",
+      "total": 18,
+      "counts": {
+        "2012-script": 9,
+        "2018-R": 2,
+        "2018-script": 7
+      },
+      "pdf_pages": {
+        "2012-script": [
+          5,
+          6,
+          8
+        ],
+        "2018-R": [
+          1
+        ],
+        "2018-script": [
+          3,
+          6,
+          7
+        ]
+      }
+    },
+    {
+      "word": "聞く",
+      "reading_auto": "キイ",
+      "total": 18,
+      "counts": {
+        "2012-script": 7,
+        "2018-V": 2,
+        "2018-G": 2,
+        "2018-R": 1,
+        "2018-script": 6
+      },
+      "pdf_pages": {
+        "2012-script": [
+          2,
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        "2018-V": [
+          5,
+          6
+        ],
+        "2018-G": [
+          3,
+          8
+        ],
+        "2018-R": [
+          12
+        ],
+        "2018-script": [
+          2,
+          6,
+          12
+        ]
+      }
+    },
+    {
+      "word": "まず",
+      "reading_auto": "マズ",
+      "total": 17,
+      "counts": {
+        "2012-script": 6,
+        "2018-script": 11
+      },
+      "pdf_pages": {
+        "2012-script": [
+          2,
+          3,
+          4
+        ],
+        "2018-script": [
+          2,
+          3,
+          4,
+          7,
+          8
+        ]
+      }
+    },
+    {
+      "word": "店",
+      "reading_auto": "ミセ",
+      "total": 17,
+      "counts": {
+        "2012-script": 4,
+        "2018-R": 1,
+        "2018-script": 12
+      },
+      "pdf_pages": {
+        "2012-script": [
+          2,
+          7
+        ],
+        "2018-R": [
+          7
+        ],
+        "2018-script": [
+          2,
+          7,
+          9
+        ]
+      }
+    },
+    {
+      "word": "やる",
+      "reading_auto": "ヤッ",
+      "total": 16,
+      "counts": {
+        "2012-script": 6,
+        "2018-V": 1,
+        "2018-script": 9
+      },
+      "pdf_pages": {
+        "2012-script": [
+          3,
+          5,
+          12
+        ],
+        "2018-V": [
+          7
+        ],
+        "2018-script": [
+          1,
+          2,
+          4,
+          6,
+          7,
+          9
+        ]
+      }
+    },
+    {
+      "word": "分かる",
+      "reading_auto": "ワカリ",
+      "total": 16,
+      "counts": {
+        "2012-script": 4,
+        "2018-script": 12
+      },
+      "pdf_pages": {
+        "2012-script": [
+          1,
+          3,
+          4,
+          6
+        ],
+        "2018-script": [
+          1,
+          2,
+          3,
+          6,
+          7,
+          10,
+          11,
+          12
+        ]
+      }
+    },
+    {
+      "word": "これから",
+      "reading_auto": "コレカラ",
+      "total": 15,
+      "counts": {
+        "2012-script": 5,
+        "2018-R": 4,
+        "2018-script": 6
+      },
+      "pdf_pages": {
+        "2012-script": [
+          3,
+          4,
+          7
+        ],
+        "2018-R": [
+          5,
+          6
+        ],
+        "2018-script": [
+          1,
+          6,
+          8,
+          13
+        ]
+      }
+    },
+    {
+      "word": "ちょっと",
+      "reading_auto": "チョット",
+      "total": 15,
+      "counts": {
+        "2012-script": 7,
+        "2018-G": 1,
+        "2018-script": 7
+      },
+      "pdf_pages": {
+        "2012-script": [
+          2,
+          3,
+          4,
+          5,
+          7,
+          11
+        ],
+        "2018-G": [
+          4
+        ],
+        "2018-script": [
+          2,
+          3,
+          6,
+          7,
+          8,
+          9,
+          12
+        ]
+      }
+    },
+    {
+      "word": "どうして",
+      "reading_auto": "ドウシテ",
+      "total": 15,
+      "counts": {
+        "2012-script": 8,
+        "2018-R": 1,
+        "2018-script": 6
+      },
+      "pdf_pages": {
+        "2012-script": [
+          4,
+          5,
+          6
+        ],
+        "2018-R": [
+          3
+        ],
+        "2018-script": [
+          4,
+          5,
+          6
+        ]
+      }
+    },
+    {
+      "word": "明日",
+      "reading_auto": "アシタ",
+      "total": 15,
+      "counts": {
+        "2012-script": 8,
+        "2018-script": 7
+      },
+      "pdf_pages": {
+        "2012-script": [
+          1,
+          2,
+          7,
+          10,
+          11,
+          12
+        ],
+        "2018-script": [
+          1,
+          2,
+          3,
+          5
+        ]
+      }
+    },
+    {
+      "word": "時間",
+      "reading_auto": "ジカン",
+      "total": 15,
+      "counts": {
+        "2012-script": 6,
+        "2018-R": 3,
+        "2018-script": 6
+      },
+      "pdf_pages": {
+        "2012-script": [
+          4,
+          5,
+          10
+        ],
+        "2018-R": [
+          12
+        ],
+        "2018-script": [
+          1,
+          3,
+          4,
+          7,
+          10,
+          11
+        ]
+      }
+    },
+    {
+      "word": "電話",
+      "reading_auto": "デンワ",
+      "total": 15,
+      "counts": {
+        "2012-script": 4,
+        "2018-G": 2,
+        "2018-R": 6,
+        "2018-script": 3
+      },
+      "pdf_pages": {
+        "2012-script": [
+          2,
+          7,
+          8
+        ],
+        "2018-G": [
+          3,
+          5
+        ],
+        "2018-R": [
+          2
+        ],
+        "2018-script": [
+          1,
+          2,
+          6
+        ]
+      }
+    },
+    {
+      "word": "よく",
+      "reading_auto": "ヨク",
+      "total": 14,
+      "counts": {
+        "2012-script": 2,
+        "2018-V": 1,
+        "2018-G": 2,
+        "2018-R": 5,
+        "2018-script": 4
+      },
+      "pdf_pages": {
+        "2012-script": [
+          2,
+          3
+        ],
+        "2018-V": [
+          5
+        ],
+        "2018-G": [
+          8
+        ],
+        "2018-R": [
+          2,
+          5,
+          6,
+          10,
+          12
+        ],
+        "2018-script": [
+          6,
+          7,
+          9,
+          13
+        ]
+      }
+    },
+    {
+      "word": "入る",
+      "reading_auto": "ハイッ",
+      "total": 14,
+      "counts": {
+        "2012-script": 6,
+        "2018-V": 1,
+        "2018-G": 1,
+        "2018-R": 1,
+        "2018-script": 5
+      },
+      "pdf_pages": {
+        "2012-script": [
+          2,
+          7,
+          8,
+          9
+        ],
+        "2018-V": [
+          6
+        ],
+        "2018-G": [
+          6
+        ],
+        "2018-R": [
+          12
+        ],
+        "2018-script": [
+          4,
+          5,
+          8,
+          12
+        ]
+      }
+    },
+    {
+      "word": "動物",
+      "reading_auto": "ドウブツ",
+      "total": 14,
+      "counts": {
+        "2018-R": 14
+      },
+      "pdf_pages": {
+        "2018-R": [
+          11,
+          12
+        ]
+      }
+    },
+    {
+      "word": "参加",
+      "reading_auto": "サンカ",
+      "total": 14,
+      "counts": {
+        "2012-script": 3,
+        "2018-R": 6,
+        "2018-script": 5
+      },
+      "pdf_pages": {
+        "2012-script": [
+          6
+        ],
+        "2018-R": [
+          4,
+          11,
+          12
+        ],
+        "2018-script": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "word": "大丈夫",
+      "reading_auto": "ダイジョウブ",
+      "total": 14,
+      "counts": {
+        "2012-script": 9,
+        "2018-G": 1,
+        "2018-script": 4
+      },
+      "pdf_pages": {
+        "2012-script": [
+          3,
+          5,
+          6,
+          7,
+          8,
+          10,
+          11
+        ],
+        "2018-G": [
+          4
+        ],
+        "2018-script": [
+          1,
+          3,
+          6,
+          8
+        ]
+      }
+    },
+    {
+      "word": "天気",
+      "reading_auto": "テンキ",
+      "total": 14,
+      "counts": {
+        "2012-script": 1,
+        "2018-G": 13
+      },
+      "pdf_pages": {
+        "2012-script": [
+          3
+        ],
+        "2018-G": [
+          8
+        ]
+      }
+    },
+    {
+      "word": "考える",
+      "reading_auto": "カンガエ",
+      "total": 14,
+      "counts": {
+        "2012-script": 1,
+        "2018-V": 1,
+        "2018-G": 2,
+        "2018-R": 9,
+        "2018-script": 1
+      },
+      "pdf_pages": {
+        "2012-script": [
+          4
+        ],
+        "2018-V": [
+          4
+        ],
+        "2018-G": [
+          8
+        ],
+        "2018-R": [
+          2,
+          3,
+          9,
+          10
+        ],
+        "2018-script": [
+          9
+        ]
+      }
+    },
+    {
+      "word": "行う",
+      "reading_auto": "オコナッ",
+      "total": 14,
+      "counts": {
+        "2018-V": 1,
+        "2018-G": 8,
+        "2018-R": 5
+      },
+      "pdf_pages": {
+        "2018-V": [
+          3
+        ],
+        "2018-G": [
+          3,
+          5
+        ],
+        "2018-R": [
+          1,
+          9,
+          10
+        ]
+      }
+    },
+    {
+      "word": "食べる",
+      "reading_auto": "タベ",
+      "total": 14,
+      "counts": {
+        "2012-script": 3,
+        "2018-V": 1,
+        "2018-G": 7,
+        "2018-script": 3
+      },
+      "pdf_pages": {
+        "2012-script": [
+          2,
+          4,
+          11
+        ],
+        "2018-V": [
+          7
+        ],
+        "2018-G": [
+          3,
+          4,
+          8
+        ],
+        "2018-script": [
+          1,
+          4,
+          7
+        ]
+      }
+    },
+    {
+      "word": "すぐ",
+      "reading_auto": "スグ",
+      "total": 13,
+      "counts": {
+        "2012-script": 2,
+        "2018-V": 2,
+        "2018-R": 3,
+        "2018-script": 6
+      },
+      "pdf_pages": {
+        "2012-script": [
+          7,
+          12
+        ],
+        "2018-V": [
+          5,
+          7
+        ],
+        "2018-R": [
+          7,
+          9
+        ],
+        "2018-script": [
+          1,
+          3,
+          5,
+          8,
+          12
+        ]
+      }
+    },
+    {
+      "word": "テレビ",
+      "reading_auto": "テレビ",
+      "total": 13,
+      "counts": {
+        "2012-script": 5,
+        "2018-R": 1,
+        "2018-script": 7
+      },
+      "pdf_pages": {
+        "2012-script": [
+          6,
+          9
+        ],
+        "2018-R": [
+          9
+        ],
+        "2018-script": [
+          6,
+          9,
+          10
+        ]
+      }
+    },
+    {
+      "word": "入園",
+      "reading_auto": "ニュウエン",
+      "total": 13,
+      "counts": {
+        "2018-R": 13
+      },
+      "pdf_pages": {
+        "2018-R": [
+          11,
+          12
+        ]
+      }
+    },
+    {
+      "word": "料理",
+      "reading_auto": "リョウリ",
+      "total": 12,
+      "counts": {
+        "2012-script": 7,
+        "2018-V": 3,
+        "2018-script": 2
+      },
+      "pdf_pages": {
+        "2012-script": [
+          4,
+          5
+        ],
+        "2018-V": [
+          5,
+          6,
+          7
+        ],
+        "2018-script": [
+          4
+        ]
+      }
+    },
+    {
+      "word": "説明",
+      "reading_auto": "セツメイ",
+      "total": 12,
+      "counts": {
+        "2018-V": 1,
+        "2018-R": 6,
+        "2018-script": 5
+      },
+      "pdf_pages": {
+        "2018-V": [
+          3
+        ],
+        "2018-R": [
+          4,
+          7,
+          12
+        ],
+        "2018-script": [
+          3,
+          6,
+          10
+        ]
+      }
+    },
+    {
+      "word": "つける",
+      "reading_auto": "ツケ",
+      "total": 11,
+      "counts": {
+        "2012-script": 5,
+        "2018-R": 2,
+        "2018-script": 4
+      },
+      "pdf_pages": {
+        "2012-script": [
+          3,
+          7,
+          9,
+          11
+        ],
+        "2018-R": [
+          9,
+          10
+        ],
+        "2018-script": [
+          3,
+          8,
+          10
+        ]
+      }
+    },
+    {
+      "word": "ホテル",
+      "reading_auto": "ホテル",
+      "total": 11,
+      "counts": {
+        "2012-script": 5,
+        "2018-V": 1,
+        "2018-script": 5
+      },
+      "pdf_pages": {
+        "2012-script": [
+          1,
+          9
+        ],
+        "2018-V": [
+          3
+        ],
+        "2018-script": [
+          1,
+          10
+        ]
+      }
+    },
+    {
+      "word": "借りる",
+      "reading_auto": "カリ",
+      "total": 11,
+      "counts": {
+        "2012-script": 2,
+        "2018-V": 1,
+        "2018-R": 6,
+        "2018-script": 2
+      },
+      "pdf_pages": {
+        "2012-script": [
+          7
+        ],
+        "2018-V": [
+          5
+        ],
+        "2018-R": [
+          7
+        ],
+        "2018-script": [
+          8
+        ]
+      }
+    },
+    {
+      "word": "急",
+      "reading_auto": "キュウ",
+      "total": 11,
+      "counts": {
+        "2012-script": 3,
+        "2018-V": 5,
+        "2018-R": 2,
+        "2018-script": 1
+      },
+      "pdf_pages": {
+        "2012-script": [
+          2,
+          7,
+          11
+        ],
+        "2018-V": [
+          7
+        ],
+        "2018-R": [
+          9
+        ],
+        "2018-script": [
+          6
+        ]
+      }
+    },
+    {
+      "word": "教える",
+      "reading_auto": "オシエ",
+      "total": 11,
+      "counts": {
+        "2012-script": 3,
+        "2018-script": 8
+      },
+      "pdf_pages": {
+        "2012-script": [
+          2,
+          4,
+          5
+        ],
+        "2018-script": [
+          2,
+          4,
+          6,
+          10
+        ]
+      }
+    },
+    {
+      "word": "教室",
+      "reading_auto": "キョウシツ",
+      "total": 11,
+      "counts": {
+        "2012-script": 5,
+        "2018-R": 3,
+        "2018-script": 3
+      },
+      "pdf_pages": {
+        "2012-script": [
+          5
+        ],
+        "2018-R": [
+          11,
+          12
+        ],
+        "2018-script": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "word": "もう一度",
+      "reading_auto": "モウイチド",
+      "total": 10,
+      "counts": {
+        "2018-R": 9,
+        "2018-script": 1
+      },
+      "pdf_pages": {
+        "2018-R": [
+          2,
+          5,
+          11,
+          12
+        ],
+        "2018-script": [
+          9
+        ]
+      }
+    },
+    {
+      "word": "出張",
+      "reading_auto": "シュッチョウ",
+      "total": 10,
+      "counts": {
+        "2012-script": 4,
+        "2018-V": 5,
+        "2018-script": 1
+      },
+      "pdf_pages": {
+        "2012-script": [
+          5,
+          7,
+          8
+        ],
+        "2018-V": [
+          7
+        ],
+        "2018-script": [
+          6
+        ]
+      }
+    },
+    {
+      "word": "準備",
+      "reading_auto": "ジュンビ",
+      "total": 10,
+      "counts": {
+        "2012-script": 1,
+        "2018-R": 2,
+        "2018-script": 7
+      },
+      "pdf_pages": {
+        "2012-script": [
+          3
+        ],
+        "2018-R": [
+          4,
+          12
+        ],
+        "2018-script": [
+          2,
+          3,
+          7
+        ]
+      }
+    },
+    {
+      "word": "販売",
+      "reading_auto": "ハンバイ",
+      "total": 10,
+      "counts": {
+        "2018-R": 10
+      },
+      "pdf_pages": {
+        "2018-R": [
+          3
+        ]
+      }
+    },
+    {
+      "word": "食事",
+      "reading_auto": "ショクジ",
+      "total": 10,
+      "counts": {
+        "2012-script": 4,
+        "2018-V": 1,
+        "2018-G": 1,
+        "2018-R": 1,
+        "2018-script": 3
+      },
+      "pdf_pages": {
+        "2012-script": [
+          4,
+          8,
+          10
+        ],
+        "2018-V": [
+          5
+        ],
+        "2018-G": [
+          6
+        ],
+        "2018-R": [
+          11
+        ],
+        "2018-script": [
+          6,
+          7
+        ]
+      }
+    },
+    {
+      "word": "しれる",
+      "reading_auto": "シレ",
+      "total": 9,
+      "counts": {
+        "2012-script": 2,
+        "2018-G": 1,
+        "2018-R": 3,
+        "2018-script": 3
+      },
+      "pdf_pages": {
+        "2012-script": [
+          1,
+          3
+        ],
+        "2018-G": [
+          9
+        ],
+        "2018-R": [
+          5,
+          6
+        ],
+        "2018-script": [
+          1,
+          7,
+          9
+        ]
+      }
+    },
+    {
+      "word": "まだ",
+      "reading_auto": "マダ",
+      "total": 9,
+      "counts": {
+        "2012-script": 5,
+        "2018-V": 1,
+        "2018-G": 1,
+        "2018-script": 2
+      },
+      "pdf_pages": {
+        "2012-script": [
+          1,
+          6,
+          12
+        ],
+        "2018-V": [
+          7
+        ],
+        "2018-G": [
+          7
+        ],
+        "2018-script": [
+          5,
+          9
+        ]
+      }
+    },
+    {
+      "word": "もう",
+      "reading_auto": "モウ",
+      "total": 9,
+      "counts": {
+        "2012-script": 4,
+        "2018-G": 2,
+        "2018-script": 3
+      },
+      "pdf_pages": {
+        "2012-script": [
+          1,
+          4,
+          8,
+          12
+        ],
+        "2018-G": [
+          3,
+          4
+        ],
+        "2018-script": [
+          2,
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "word": "わかる",
+      "reading_auto": "ワカッ",
+      "total": 9,
+      "counts": {
+        "2018-G": 2,
+        "2018-R": 7
+      },
+      "pdf_pages": {
+        "2018-G": [
+          4,
+          8
+        ],
+        "2018-R": [
+          1,
+          2,
+          4,
+          9,
+          10
+        ]
+      }
+    },
+    {
+      "word": "サービス",
+      "reading_auto": "サービス",
+      "total": 9,
+      "counts": {
+        "2018-R": 9
+      },
+      "pdf_pages": {
+        "2018-R": [
+          9,
+          10
+        ]
+      }
+    },
+    {
+      "word": "午後",
+      "reading_auto": "ゴゴ",
+      "total": 9,
+      "counts": {
+        "2012-script": 3,
+        "2018-R": 6
+      },
+      "pdf_pages": {
+        "2012-script": [
+          1,
+          5
+        ],
+        "2018-R": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "word": "国",
+      "reading_auto": "クニ",
+      "total": 9,
+      "counts": {
+        "2012-script": 2,
+        "2018-V": 1,
+        "2018-G": 2,
+        "2018-script": 4
+      },
+      "pdf_pages": {
+        "2012-script": [
+          5
+        ],
+        "2018-V": [
+          4
+        ],
+        "2018-G": [
+          8
+        ],
+        "2018-script": [
+          6
+        ]
+      }
+    },
+    {
+      "word": "夜",
+      "reading_auto": "ヨル",
+      "total": 9,
+      "counts": {
+        "2012-script": 1,
+        "2018-G": 2,
+        "2018-R": 5,
+        "2018-script": 1
+      },
+      "pdf_pages": {
+        "2012-script": [
+          2
+        ],
+        "2018-G": [
+          3,
+          4
+        ],
+        "2018-R": [
+          11,
+          12
+        ],
+        "2018-script": [
+          6
+        ]
+      }
+    },
+    {
+      "word": "失敗",
+      "reading_auto": "シッパイ",
+      "total": 9,
+      "counts": {
+        "2018-V": 1,
+        "2018-G": 1,
+        "2018-R": 7
+      },
+      "pdf_pages": {
+        "2018-V": [
+          7
+        ],
+        "2018-G": [
+          3
+        ],
+        "2018-R": [
+          5,
+          6
+        ]
+      }
+    },
+    {
+      "word": "客",
+      "reading_auto": "キャク",
+      "total": 9,
+      "counts": {
+        "2018-G": 2,
+        "2018-R": 5,
+        "2018-script": 2
+      },
+      "pdf_pages": {
+        "2018-G": [
+          3,
+          7
+        ],
+        "2018-R": [
+          3,
+          7
+        ],
+        "2018-script": [
+          7,
+          9
+        ]
+      }
+    },
+    {
+      "word": "家",
+      "reading_auto": "イエ",
+      "total": 9,
+      "counts": {
+        "2012-script": 3,
+        "2018-V": 2,
+        "2018-R": 1,
+        "2018-script": 3
+      },
+      "pdf_pages": {
+        "2012-script": [
+          3,
+          7
+        ],
+        "2018-V": [
+          7
+        ],
+        "2018-R": [
+          5
+        ],
+        "2018-script": [
+          5
+        ]
+      }
+    },
+    {
+      "word": "希望",
+      "reading_auto": "キボウ",
+      "total": 9,
+      "counts": {
+        "2018-V": 1,
+        "2018-R": 8
+      },
+      "pdf_pages": {
+        "2018-V": [
+          7
+        ],
+        "2018-R": [
+          9,
+          10
+        ]
+      }
+    },
+    {
+      "word": "必要",
+      "reading_auto": "ヒツヨウ",
+      "total": 9,
+      "counts": {
+        "2012-script": 2,
+        "2018-R": 6,
+        "2018-script": 1
+      },
+      "pdf_pages": {
+        "2012-script": [
+          1
+        ],
+        "2018-R": [
+          7,
+          9,
+          12
+        ],
+        "2018-script": [
+          10
+        ]
+      }
+    },
+    {
+      "word": "日本",
+      "reading_auto": "ニッポン",
+      "total": 9,
+      "counts": {
+        "2012-script": 2,
+        "2018-G": 2,
+        "2018-R": 1,
+        "2018-script": 4
+      },
+      "pdf_pages": {
+        "2012-script": [
+          5,
+          6
+        ],
+        "2018-G": [
+          8
+        ],
+        "2018-R": [
+          3
+        ],
+        "2018-script": [
+          5,
+          13
+        ]
+      }
+    },
+    {
+      "word": "昨日",
+      "reading_auto": "キノウ",
+      "total": 9,
+      "counts": {
+        "2012-script": 1,
+        "2018-G": 1,
+        "2018-script": 7
+      },
+      "pdf_pages": {
+        "2012-script": [
+          7
+        ],
+        "2018-G": [
+          3
+        ],
+        "2018-script": [
+          5,
+          6,
+          7,
+          8,
+          12
+        ]
+      }
+    },
+    {
+      "word": "気",
+      "reading_auto": "キ",
+      "total": 9,
+      "counts": {
+        "2012-script": 2,
+        "2018-V": 2,
+        "2018-R": 2,
+        "2018-script": 3
+      },
+      "pdf_pages": {
+        "2012-script": [
+          7,
+          11
+        ],
+        "2018-V": [
+          5
+        ],
+        "2018-R": [
+          2,
+          6
+        ],
+        "2018-script": [
+          3,
+          7,
+          8
+        ]
+      }
+    },
+    {
+      "word": "活動",
+      "reading_auto": "カツドウ",
+      "total": 9,
+      "counts": {
+        "2018-V": 1,
+        "2018-R": 5,
+        "2018-script": 3
+      },
+      "pdf_pages": {
+        "2018-V": [
+          5
+        ],
+        "2018-R": [
+          1,
+          7
+        ],
+        "2018-script": [
+          9
+        ]
+      }
+    },
+    {
+      "word": "選手",
+      "reading_auto": "センシュ",
+      "total": 9,
+      "counts": {
+        "2018-V": 1,
+        "2018-script": 8
+      },
+      "pdf_pages": {
+        "2018-V": [
+          7
+        ],
+        "2018-script": [
+          9
+        ]
+      }
+    },
+    {
+      "word": "ええ",
+      "reading_auto": "エエ",
+      "total": 8,
+      "counts": {
+        "2012-script": 6,
+        "2018-script": 2
+      },
+      "pdf_pages": {
+        "2012-script": [
+          1,
+          3,
+          5,
+          6,
+          10,
+          11
+        ],
+        "2018-script": [
+          1,
+          11
+        ]
+      }
+    },
+    {
+      "word": "ご飯",
+      "reading_auto": "ゴハン",
+      "total": 8,
+      "counts": {
+        "2012-script": 3,
+        "2018-script": 5
+      },
+      "pdf_pages": {
+        "2012-script": [
+          2,
+          3
+        ],
+        "2018-script": [
+          1,
+          11
+        ]
+      }
+    },
+    {
+      "word": "アルバイト",
+      "reading_auto": "アルバイト",
+      "total": 8,
+      "counts": {
+        "2012-script": 6,
+        "2018-script": 2
+      },
+      "pdf_pages": {
+        "2012-script": [
+          5,
+          6,
+          10
+        ],
+        "2018-script": [
+          6,
+          7
+        ]
+      }
+    },
+    {
+      "word": "予約",
+      "reading_auto": "ヨヤク",
+      "total": 8,
+      "counts": {
+        "2012-script": 2,
+        "2018-G": 5,
+        "2018-R": 1
+      },
+      "pdf_pages": {
+        "2012-script": [
+          2
+        ],
+        "2018-G": [
+          4
+        ],
+        "2018-R": [
+          9
+        ]
+      }
+    },
+    {
+      "word": "仕事",
+      "reading_auto": "シゴト",
+      "total": 8,
+      "counts": {
+        "2012-script": 3,
+        "2018-V": 3,
+        "2018-script": 2
+      },
+      "pdf_pages": {
+        "2012-script": [
+          5,
+          6
+        ],
+        "2018-V": [
+          7
+        ],
+        "2018-script": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "word": "取る",
+      "reading_auto": "トッ",
+      "total": 8,
+      "counts": {
+        "2012-script": 5,
+        "2018-script": 3
+      },
+      "pdf_pages": {
+        "2012-script": [
+          10,
+          12
+        ],
+        "2018-script": [
+          2,
+          5
+        ]
+      }
+    },
+    {
+      "word": "子供",
+      "reading_auto": "コドモ",
+      "total": 8,
+      "counts": {
+        "2018-R": 1,
+        "2018-script": 7
+      },
+      "pdf_pages": {
+        "2018-R": [
+          9
+        ],
+        "2018-script": [
+          10
+        ]
+      }
+    },
+    {
+      "word": "少し",
+      "reading_auto": "スコシ",
+      "total": 8,
+      "counts": {
+        "2018-V": 4,
+        "2018-script": 4
+      },
+      "pdf_pages": {
+        "2018-V": [
+          6,
+          7
+        ],
+        "2018-script": [
+          1,
+          6,
+          10,
+          11
+        ]
+      }
+    },
+    {
+      "word": "帰る",
+      "reading_auto": "カエル",
+      "total": 8,
+      "counts": {
+        "2012-script": 2,
+        "2018-V": 2,
+        "2018-script": 4
+      },
+      "pdf_pages": {
+        "2012-script": [
+          5,
+          7
+        ],
+        "2018-V": [
+          7
+        ],
+        "2018-script": [
+          1,
+          8
+        ]
+      }
+    },
+    {
+      "word": "急ぐ",
+      "reading_auto": "イソグ",
+      "total": 8,
+      "counts": {
+        "2018-R": 6,
+        "2018-script": 2
+      },
+      "pdf_pages": {
+        "2018-R": [
+          9
+        ],
+        "2018-script": [
+          2,
+          10
+        ]
+      }
+    },
+    {
+      "word": "授業",
+      "reading_auto": "ジュギョウ",
+      "total": 8,
+      "counts": {
+        "2018-R": 6,
+        "2018-script": 2
+      },
+      "pdf_pages": {
+        "2018-R": [
+          1
+        ],
+        "2018-script": [
+          7
+        ]
+      }
+    },
+    {
+      "word": "新しい",
+      "reading_auto": "アタラシイ",
+      "total": 8,
+      "counts": {
+        "2012-script": 2,
+        "2018-V": 1,
+        "2018-script": 5
+      },
+      "pdf_pages": {
+        "2012-script": [
+          4,
+          7
+        ],
+        "2018-V": [
+          7
+        ],
+        "2018-script": [
+          5,
+          9
+        ]
+      }
+    },
+    {
+      "word": "映画",
+      "reading_auto": "エイガ",
+      "total": 8,
+      "counts": {
+        "2012-script": 8
+      },
+      "pdf_pages": {
+        "2012-script": [
+          2,
+          3,
+          7,
+          8,
+          12
+        ]
+      }
+    },
+    {
+      "word": "昼",
+      "reading_auto": "ヒル",
+      "total": 8,
+      "counts": {
+        "2018-V": 2,
+        "2018-R": 6
+      },
+      "pdf_pages": {
+        "2018-V": [
+          7
+        ],
+        "2018-R": [
+          11,
+          12
+        ]
+      }
+    },
+    {
+      "word": "月",
+      "reading_auto": "ツキ",
+      "total": 8,
+      "counts": {
+        "2012-script": 1,
+        "2018-G": 1,
+        "2018-R": 4,
+        "2018-script": 2
+      },
+      "pdf_pages": {
+        "2012-script": [
+          5
+        ],
+        "2018-G": [
+          3
+        ],
+        "2018-R": [
+          1,
+          4,
+          11,
+          12
+        ],
+        "2018-script": [
+          10
+        ]
+      }
+    },
+    {
+      "word": "朝",
+      "reading_auto": "アサ",
+      "total": 8,
+      "counts": {
+        "2012-script": 2,
+        "2018-V": 1,
+        "2018-G": 2,
+        "2018-R": 1,
+        "2018-script": 2
+      },
+      "pdf_pages": {
+        "2012-script": [
+          1,
+          5
+        ],
+        "2018-V": [
+          7
+        ],
+        "2018-G": [
+          8
+        ],
+        "2018-R": [
+          4
+        ],
+        "2018-script": [
+          1,
+          7
+        ]
+      }
+    },
+    {
+      "word": "楽しい",
+      "reading_auto": "タノシ",
+      "total": 8,
+      "counts": {
+        "2012-script": 5,
+        "2018-V": 1,
+        "2018-R": 2
+      },
+      "pdf_pages": {
+        "2012-script": [
+          5,
+          8
+        ],
+        "2018-V": [
+          5
+        ],
+        "2018-R": [
+          5,
+          12
+        ]
+      }
+    },
+    {
+      "word": "田中",
+      "reading_auto": "タナカ",
+      "total": 8,
+      "counts": {
+        "2012-script": 5,
+        "2018-script": 3
+      },
+      "pdf_pages": {
+        "2012-script": [
+          4,
+          7,
+          8,
+          11
+        ],
+        "2018-script": [
+          4,
+          6,
+          8
+        ]
+      }
+    },
+    {
+      "word": "留学生",
+      "reading_auto": "リュウガクセイ",
+      "total": 8,
+      "counts": {
+        "2012-script": 7,
+        "2018-G": 1
+      },
+      "pdf_pages": {
+        "2012-script": [
+          3,
+          6
+        ],
+        "2018-G": [
+          8
+        ]
+      }
+    },
+    {
+      "word": "発表",
+      "reading_auto": "ハッピョウ",
+      "total": 8,
+      "counts": {
+        "2018-script": 8
+      },
+      "pdf_pages": {
+        "2018-script": [
+          3,
+          7
+        ]
+      }
+    },
+    {
+      "word": "答える",
+      "reading_auto": "コタエ",
+      "total": 8,
+      "counts": {
+        "2018-G": 2,
+        "2018-R": 6
+      },
+      "pdf_pages": {
+        "2018-G": [
+          3,
+          8
+        ],
+        "2018-R": [
+          1,
+          5,
+          9,
+          10,
+          11
+        ]
+      }
+    }
+  ]
+}
